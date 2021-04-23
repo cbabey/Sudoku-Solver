@@ -55,7 +55,7 @@ The text file must not contain any other characters or unnecessary spaces, tabs 
 **Execute the Programme**
 
   ```bash
- Solver.exe <input file>
+ sudoku.exe <input file>
   ```
 
 
